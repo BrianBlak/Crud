@@ -1,0 +1,11 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+//http://localhost:3000
+
+// DB
+// rychardanthony23
+// aWvY5LqBVo1XxFDr
+
+/generated/prisma
